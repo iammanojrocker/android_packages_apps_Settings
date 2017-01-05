@@ -594,4 +594,8 @@
     <string name="smartbar_config_restore_error_toast">Error restoring Smartbar profile</string>
     <string name="navbar_buttons_alpha_title">Button transparency</string>
 
+    <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel Navbar Animation</string>
+    <string name="pixel_navbar_anim_summary">Enables the Pixel Navbar Animation</string>
+
 </resources>
